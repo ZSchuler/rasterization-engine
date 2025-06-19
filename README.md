@@ -52,3 +52,9 @@ Scene scene = new Scene();
 // Add models...
 Run(target, scene);
 ```
+
+### Future Plans
+
+- Optimize to run at least 60 FPS
+- Add better solution for negative-z triangles
+- Add support for textures & simple lighting
